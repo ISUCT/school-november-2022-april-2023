@@ -3,7 +3,7 @@
 - Standup time: 17:30 — Tuesday & Friday
 - Dates: 01 November 2022 — 01 April 2023
 - CVS: [https://github.com/ISUCT](https://github.com/ISUCT)
-- Source repository: https://github.com/ISUCT/school-november-2022-winter-project
+- Source repository: https://github.com/ISUCT/school-november-2022-april-2023
 
 ## Team structure:
 
