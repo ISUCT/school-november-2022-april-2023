@@ -10,6 +10,7 @@
 - [Team Lead](https://github.com/Zimtir)
 - Contributors
   - https://github.com/Damonikad
+  - https://github.com/Iluchacha
 
 
 ## Architecture
