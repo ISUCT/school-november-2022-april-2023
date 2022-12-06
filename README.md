@@ -8,10 +8,17 @@
 ## Team structure:
 
 - [Team Lead](https://github.com/Zimtir)
-- Contributors
-  - https://github.com/Damonikad
-  - https://github.com/Iluchacha
+- Bot-team
+  - Board: https://github.com/orgs/ISUCT/projects/4
+  - Contributors
+    - https://github.com/Damonikad
+    - https://github.com/Iluchacha
+    - Smirnov Arseniy
 
+  - Project description:
+  
+    Service that allows to manage own calendar and process of the completing for homework and tasks with usage of camera, text and voice
+ 
 
 ## Architecture
 
