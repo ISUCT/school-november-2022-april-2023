@@ -8,17 +8,59 @@
 ## Team structure:
 
 - [Team Lead](https://github.com/Zimtir)
-- Bot-team
-  - Board: https://github.com/orgs/ISUCT/projects/4
-  - Contributors
-    - https://github.com/Damonikad
-    - https://github.com/Iluchacha
-    - Smirnov Arseniy
 
-  - Project description:
-  
-    Service that allows to manage own calendar and process of the completing for homework and tasks with usage of camera, text and voice
- 
+### Health-web-team: (Стас Мыслинский)**
+
+https://github.com/1ON3LY
+
+- Functions
+    - Test system with narrative pipelines
+    - Auth system?
+- Stack
+    - React+Redux (Next.js)+Mongodb
+- TBD:
+    - Начать просмотр [https://www.youtube.com/watch?v=gb7gMluAeao&list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8](https://www.youtube.com/watch?v=gb7gMluAeao&list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8)
+
+### Bot team: (Александр Долев, Даниил Кувыкин, Арсений Смирнов, Илья Щербаков)
+
+https://github.com/Iluchacha
+
+Actor team
+
+- TBD: Functions
+    - Хранение данных
+    - Обработка команд
+        - Даниил Кувыкин
+    - Устойчивость
+    - Features
+        - Смирнов Арсений
+    - Bugs
+        - Александр Долев
+- **Stack:**
+    - **Питон, Телеграмм**
+    
+
+### Play team: (Илья Поличенков, Денис Савинов, Матвей Ксенофонтов)
+
+Description: Platformer, 2D
+
+Full-stack team (cross-functional)
+
+- Functions
+    - Health care: water stamina
+    - Points system
+    - Border system
+    - Boss system? Илья Поличенков
+    - 2 Floor? Матвей Ксенофонтов
+    - Food system? Матвей Ксенофонтов
+    
+- Stack
+    - Unity + C#
+        - Денис Савинов и Матвей Ксенофонтов + возможно присоединится Илья
+    - Graphic
+        - Pixel art? — Илья Поличенков
+    - Music
+        - Just without any authority 
 
 ## Architecture
 
